@@ -1,2 +1,2 @@
-$DOTFILES/espanso/config/=$HOME/.config/espanso/config/
-$DOTFILES/espanso/match/=$HOME/.config/espanso/match/
+$DOTFILES/espanso/config=$HOME/.config/espanso/config
+$DOTFILES/espanso/match=$HOME/.config/espanso/match
