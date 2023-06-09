@@ -1,1 +1,2 @@
-$DOTFILES/espanso/default.yml=$HOME/Library/Preferences/espanso/default.yml
+$DOTFILES/espanso/config/=$HOME/.config/espanso/config/
+$DOTFILES/espanso/match/=$HOME/.config/espanso/match/
